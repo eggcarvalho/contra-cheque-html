@@ -27,4 +27,4 @@ Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](
 
 ## Autor
 
-[Seu Nome](https://github.com/eggcarvalho) - Desenvolvedor autodidata desde os 18 anos. Possuo experiência avançada em Flutter, HTML5, PHP, JavaScript, jQuery, entre outras tecnologias.
+[Egberto Carvalho](https://github.com/eggcarvalho) - Desenvolvedor autodidata desde os 18 anos. Possuo experiência avançada em Flutter, HTML5, PHP, JavaScript, jQuery, entre outras tecnologias.
